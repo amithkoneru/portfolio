@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-r0+kd96so+c9#a1nx3+2i3opkf5d(-q%9k!utnsapkivi8mkvk
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "127.0.0.1",
+    "localhost",
     "portfolio.amith.site",
     ]
 
