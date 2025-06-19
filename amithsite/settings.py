@@ -25,7 +25,10 @@ SECRET_KEY = 'django-insecure-r0+kd96so+c9#a1nx3+2i3opkf5d(-q%9k!utnsapkivi8mkvk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "localhost",
+    "portfolio.amith.site",
+    ]
 
 
 # Application definition
